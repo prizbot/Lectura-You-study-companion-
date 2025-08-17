@@ -38,13 +38,6 @@ Lecture-Summarizer/
 │── APP.py                  # Main script to run the summarization pipeline
 ```
 
-## **Installation & Setup**
-### **Clone the repository:**
-```bash
-git clone https://github.com/Neerajjv/Lecture-Summarizer.git
-cd Lecture-Summarizer
-```
-
 ### **Install dependencies:**
 ```bash
 pip install -r requirements.txt
