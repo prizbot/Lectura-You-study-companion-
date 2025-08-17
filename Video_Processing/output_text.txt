@@ -1,0 +1,94 @@
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+- Data Sclence vs me meme evanalyzmg raw data usmg stausucs and machme
+Iezrmngtechmques mm the purpose oldrzwmg mngm fmm the dam
+
+- Data Sclence is used 171 many mdusmes to allow them to make better busmess
+decwslansmnd m the sciences m (es: models or Lheories
+
+. This requires a process ol mspecling,cleaning.transforming,mode|ing.an:|yzmg,and
+
+Inzerpreung raw am
+‘
+
+
+ 
+What is Data Science?
+
+
+ 
+
+
+
+- Read data
+
+- Data processing and cleaning
+- Summarizing data
+
+- Visualization
+
+- Deriving insights irom data
+
+
+ 
+Data perspective
+
+
+ 
+
+
+- Python libraries provide key feature sets which are essential for ma science
+om manipulation and pre-processing
+
+Pydlon's‘pandas' library oﬂers 2 variety ellunenons for an wrangling
+and manipulation
+
+- Data summary
+
+Visualization
+
+Plotting libraries like ‘matplotll and ‘sezborn' aid in condensing statistical
+
+inlormarlon and help In identifying trends and relationships
+Machine learning libraries like ‘sci-kl: learn’ oﬂer a bouquet ol machi
+learning algorithms
+
+
+ 
+Data science using Python
+
+
+ 
+
+
+
+ 
+Advantages of Python
+
+- Provides good ecosystem of libraries that are robust
+and varied
+
+- Tight knit integration with big data frameworks like
+Hadoop, Spark etc
+
+- Supports both object oriented and functional
+programming paradigms
+
+- Python is reasonably last to prototype
+
+- Provides support for reading files from local,
+databases and cloud
+
+
